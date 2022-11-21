@@ -14,3 +14,26 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+🔭 I’m currently working on ...
+<li> Full Stack SPAs</li>
+<li> Vintage Voice Cloning</li>
+<li> Automated Securities Trading</li>
+
+<br>
+
+🌱 I’m currently interested in ...
+<li> UI/UX Design </li>
+<li> Cloud ML Services </li>
+
+<br>
+
+⚡ I'm passionate about: ...
+<li>Computers+Physics+Philosophy</li>
+<li>Brain-Computer Interfaces</li>
+
+<br>
+
+💬 Ask me ...
+<li>How can we statistically model it?</li>
+<li>How can we make it more accessible?</li>
