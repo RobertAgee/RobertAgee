@@ -16,15 +16,17 @@ Here are some ideas to get you started:
 -->
 
 🔭 I’m currently working on ...
-<li>Ready-to-Deploy Algo Servers</li>
-<li>Pine Script Utilities</li>
-<li>Tradingview Indicators</li>
+<li>Ready-to-Deploy Webservers</li>
+<li>Performance Dashboards</li>
+<li>Technical Analysis Algos</li>
+<li>Pushing the limits of Pine Script 😂</li>
 
 <br>
 
 🌱 I’m currently interested in ...
 <li>Being a quant</li>
 <li>Econophysics</li>
+<li>Networking Webservers</li>
 
 <br>
 
@@ -34,6 +36,6 @@ Here are some ideas to get you started:
 
 <br>
 
-😄 I'm recommending ...
+😄 I'd recommend checking out ...
 <li>Chat With Traders Podcast</li>
-<li>How can we make it more accessible?</li>
+<li>PBS Space Time</li>
