@@ -16,24 +16,24 @@ Here are some ideas to get you started:
 -->
 
 🔭 I’m currently working on ...
-<li> Full Stack SPAs</li>
-<li> Vintage Voice Cloning</li>
-<li> Automated Securities Trading</li>
+<li>Ready-to-Deploy Algo Servers</li>
+<li>Pine Script Utilities</li>
+<li>Tradingview Indicators</li>
 
 <br>
 
 🌱 I’m currently interested in ...
-<li> UI/UX Design </li>
-<li> Cloud ML Services </li>
+<li>Being a quant</li>
+<li>Econophysics</li>
 
 <br>
 
-⚡ I'm passionate about: ...
+⚡ I'm passionate about ...
 <li>Computers+Physics+Philosophy</li>
-<li>Brain-Computer Interfaces</li>
+<li>Tinkering</li>
 
 <br>
 
-💬 Ask me ...
-<li>How can we statistically model it?</li>
+😄 I'm recommending ...
+<li>Chat With Traders Podcast</li>
 <li>How can we make it more accessible?</li>
