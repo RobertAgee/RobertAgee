@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 🌱 Pine Script Tools ...
 <li><a href="https://github.com/RobertAgee/Pine-Script-Display-Case">Multi-Indicator Display Tool</a></li>
-<li><a href="https://github.com/RobertAgee/Pine-Script-Live-AMPLUSDT-Marketcap">Live AMPL Marketcap Tracker</li>
+<li><a href="https://github.com/RobertAgee/Pine-Script-Live-AMPLUSDT-Marketcap">Live AMPL Marketcap</li>
 <li><a href="https://github.com/RobertAgee/Pine-Script-3D-Anaglpyhs">3D-Glasses/Anaglyph Maker</a></li>
 
 <br>
