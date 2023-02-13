@@ -15,24 +15,25 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🔭 I’m currently working on ...
-<li>Ready-to-Deploy Webservers</li>
-<li>Performance Dashboards</li>
-<li>Technical Analysis Algos</li>
-<li>Pushing the limits of Pine Script 😂</li>
+🤔 Projects I'm thinking about ...
+<li>Pine Script Multisymbol Scanner with Alerts</li>
+<li>RtD Oanda Python Server</li>
+<li>RtD MT5 Python Server</li>
+
+⚡ Ready-to-Deploy Webservers ...
+<li><a href="https://github.com/RobertAgee/DeployReadyCCXTTradingBot">Multiexchange Crypto Trading Server</a></li>
+
 
 <br>
 
-🌱 I’m currently interested in ...
-<li>Being a quant</li>
-<li>Econophysics</li>
-<li>Networking Webservers</li>
+🌱 Pine Script Tools ...
+<li><a href="https://github.com/RobertAgee/Pine-Script-Display-Case">Multi-Indicator Display Tool</a></li>
+<li><a href="https://github.com/RobertAgee/Pine-Script-3D-Anaglpyhs">3D-Glasses/Anaglyph Maker</a></li>
 
 <br>
 
-⚡ I'm passionate about ...
-<li>Computers+Physics+Philosophy</li>
-<li>Tinkering</li>
+👯 Projects I've contributed to ...
+<li><a href="https://github.com/robinhood-unofficial/pyrh">Robinhood Python API</a></li>
 
 <br>
 
