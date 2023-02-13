@@ -20,6 +20,8 @@ Here are some ideas to get you started:
 <li>RtD Oanda Python Server</li>
 <li>RtD MT5 Python Server</li>
 
+<br>
+
 ⚡ Ready-to-Deploy Webservers ...
 <li><a href="https://github.com/RobertAgee/DeployReadyCCXTTradingBot">Multiexchange Crypto Trading Server</a></li>
 
@@ -38,5 +40,5 @@ Here are some ideas to get you started:
 <br>
 
 😄 I'd recommend checking out ...
-<li>Chat With Traders Podcast</li>
-<li>PBS Space Time</li>
+<li><a href="https://www.youtube.com/@ChatWithTradersPodcast">Chat With Traders Podcast</a></li>
+<li><a href="https://www.youtube.com/@pbsspacetime">PBS Space Time</a></li>
