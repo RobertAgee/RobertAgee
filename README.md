@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 <br>
 
 ⚡ Ready-to-Deploy Webservers ...
-<li><a href="https://github.com/RobertAgee/DeployReadyCCXTTradingBot">Multiexchange Crypto Trading Server</a></li>
+<li><a href="https://github.com/RobertAgee/CCXT-Flask-Server">Multiexchange Crypto Trading Server</a></li>
 
 
 <br>
