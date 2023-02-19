@@ -17,13 +17,13 @@ Here are some ideas to get you started:
 
 🤔 Projects I'm thinking about ...
 <li>Pine Script Multisymbol Scanner with Alerts</li>
-<li>RtD Oanda Python Server</li>
 <li>RtD MT5 Python Server</li>
 
 <br>
 
-⚡ Ready-to-Deploy Webservers ...
+⚡ Ready-to-Deploy Trading Servers ...
 <li><a href="https://github.com/RobertAgee/CCXT-Flask-Server">Multiexchange Crypto Trading Server</a></li>
+<li><a href="https://github.com/RobertAgee/Oanda_Flask_Server">Oanda Flask Server w/Autotrader</a></li>
 
 
 <br>
