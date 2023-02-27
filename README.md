@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 -->
 
 🤔 Projects I'm thinking about ...
-<li>Pine Script Multisymbol Scanner with Alerts</li>
 <li>RtD MT5 Python Server</li>
 
 <br>
@@ -32,7 +31,8 @@ Here are some ideas to get you started:
 <li><a href="https://github.com/RobertAgee/Pine-Script-Display-Case">Multi-Indicator Display Tool</a></li>
 <li><a href="https://github.com/RobertAgee/Pine-Script-Live-AMPLUSDT-Marketcap">Live AMPL Marketcap</li>
 <li><a href="https://github.com/RobertAgee/Pine-Script-3D-Anaglpyhs">3D-Glasses/Anaglyph Maker</a></li>
-
+<li><a href="https://github.com/RobertAgee/Real_Time_Strategy_Scanner">Real-Time Strategy Scanner</a></li>
+  
 <br>
 
 👯 Projects I've contributed to ...
