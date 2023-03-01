@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 <br>
 
-🌱 Pine Script Tools ...
+🌱 Chart Tools ...
 <li><a href="https://github.com/RobertAgee/Pine-Script-Display-Case">Multi-Indicator Display Tool</a></li>
 <li><a href="https://github.com/RobertAgee/Pine-Script-Live-AMPLUSDT-Marketcap">Live AMPL Marketcap</li>
 <li><a href="https://github.com/RobertAgee/Pine-Script-3D-Anaglpyhs">3D-Glasses/Anaglyph Maker</a></li>
