@@ -15,7 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🤔 Projects I'm thinking about ...
+🚀 Projects 
+
+
+🤔 I'm planning ...
 <li>RtD MT5 Python Server</li>
 
 <br>
