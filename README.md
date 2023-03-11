@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I'm building tools for algorithmic trading and analysis. 🚀🚀🚀
 
 <!--
 **RobertAgee/RobertAgee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,10 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
-<br>
-
-🚀🚀🚀  
+-->  
 
 <br>
 
@@ -27,7 +24,7 @@ Here are some ideas to get you started:
 
 <br>
 
-🌱 Chart Tools ...
+🌱 Charting Tools ...
 <li><a href="https://github.com/RobertAgee/Pine-Script-Display-Case">Multi-Indicator Display Tool</a></li>
 <li><a href="https://github.com/RobertAgee/Pine-Script-Live-AMPLUSDT-Marketcap">Live AMPL Marketcap</li>
 <li><a href="https://github.com/RobertAgee/Pine-Script-3D-Anaglpyhs">3D-Glasses/Anaglyph Maker</a></li>
