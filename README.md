@@ -21,7 +21,6 @@ Here are some ideas to get you started:
 <li><a href="https://github.com/RobertAgee/CCXT-Flask-Server">Multiexchange Crypto Trading Server</a></li>
 <li><a href="https://github.com/RobertAgee/Oanda_Flask_Server">Oanda Flask Server w/Autotrader</a></li>
 
-
 <br>
 
 🌱 Charting Tools ...
@@ -32,8 +31,14 @@ Here are some ideas to get you started:
   
 <br>
 
+🤓 Backtesting Tools ...
+<li><a href = "https://github.com/RobertAgee/Vigilant_Asset_Allocation_G4">Vigilant Asset Allocation G4</a></li> 
+<br> 
+
 🤔 Projects I'm planning ...
+
 <li>RtD MT5 Python Server</li>
+<li>Backtesting Scanner</li>
 
 <br>
 
