@@ -1,4 +1,4 @@
-### I'm building tools for algorithmic trading and analysis. 🚀🚀🚀
+### Algorithmic Trading and Analysis 🚀🚀🚀
 
 <!--
 **RobertAgee/RobertAgee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
