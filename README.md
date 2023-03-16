@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 
 <br>
 
-👯 Projects I've contributed to ...
+👯 Projects I'm contributing to ...
 <li><a href="https://github.com/robinhood-unofficial/pyrh">Robinhood Python API</a></li>
 
 <br>
