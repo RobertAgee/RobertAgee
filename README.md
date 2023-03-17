@@ -28,9 +28,9 @@ Here are some ideas to get you started:
 
 🌱 Charting Tools ...
 <li><a href="https://github.com/RobertAgee/Pine-Script-Display-Case">Multi-Indicator Display Tool</a></li>
-<li><a href="https://github.com/RobertAgee/Pine-Script-Live-AMPLUSDT-Marketcap">Live AMPL Marketcap</li>
-<li><a href="https://github.com/RobertAgee/Pine-Script-3D-Anaglpyhs">3D-Glasses/Anaglyph Maker</a></li>
 <li><a href="https://github.com/RobertAgee/Real_Time_Strategy_Scanner">Real-Time Strategy Scanner</a></li>
+<li><a href="https://github.com/RobertAgee/Pine-Script-Live-AMPLUSDT-Marketcap">Live AMPL Marketcap</li>
+<li><a href="https://github.com/RobertAgee/Pine-Script-3D-Anaglpyhs">3D Chart Maker</a></li>
   
 <br>
 
