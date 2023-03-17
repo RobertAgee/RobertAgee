@@ -1,4 +1,4 @@
-### Quant Tools + Algo Traders == 🚀🚀🚀
+### Quant Tools + Algo Traders == 🚀
 
 <!--
 **RobertAgee/RobertAgee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,6 +13,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- 💸 Moola baby: ...
+
 -->  
 
 <br>
