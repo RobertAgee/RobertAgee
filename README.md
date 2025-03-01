@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 ⚡ Ready-to-Deploy Trading Servers ...
 <li><a href="https://github.com/RobertAgee/CCXT-Flask-Server">Multiexchange Crypto Trading Server</a></li>
-<li><a href="https://github.com/RobertAgee/Oanda_Flask_Server">Oanda Flask Server w/Autotrader</a></li>
+<li><a href="https://github.com/RobertAgee/Oanda_Flask_Server">Ready-to-Deploy Oanda Flask Server</a></li>
 
 <br>
 
